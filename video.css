@@ -1,5 +1,6 @@
 @media screen and (max-width: 600px){
     .widthVideo {
         width: 100%;
+        overflow-x: hidden;
     }
 }
